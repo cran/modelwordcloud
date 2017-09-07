@@ -1,0 +1,6 @@
+ecbb7462930a9ea86999eebe6cb92bd0 *DESCRIPTION
+3e83c335f3227e67c9d4c1ba4940fec6 *NAMESPACE
+ee32400469a9ab2ae51da0e67f42e087 *R/wordcloud.R
+2672ebaf260d86935869dad530bb3d6a *man/wordcloud.Rd
+15370c9d4b2480732cf1b95516c946aa *tests/testthat.R
+964af1acb6a173dc3ca0ca39b3e5c7e0 *tests/testthat/test-wordcloud.R
